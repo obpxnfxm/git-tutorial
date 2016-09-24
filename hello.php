@@ -3,4 +3,4 @@
 	echo "<h1>Leo's Home</h1>";
 	echo "Hello, world!\n";
 	echo "</body>\n</html>";
-
+?>
